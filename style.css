@@ -68,6 +68,7 @@ h3, h2{
     margin-bottom: 20px;
     text-align: center;
     width: 100%;
+    max-width: 800px;
 }
 
 
@@ -148,6 +149,22 @@ input{
 #conten2 img{
     width: 400px;
     margin-bottom: -12px;
+}
+
+.imagenempresa{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    
+}
+
+.imagenempresa img{
+    border-radius: 14px;
+    box-shadow: 2px 2px 2px #134a9b;
+    width: 90%;
+    max-width: 600px;
 }
 
 .inputlargo{
@@ -325,6 +342,7 @@ input{
 
     .ultimocontenedor img{
         height: 400px;
+        margin: -20px;
     }
 
     #conten2{
