@@ -360,6 +360,17 @@ input{
     #celular{
         display: none;
     }
+
+    .titulo3{
+        width: 80%;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: center;
+        font-size: 30px;
+        margin-bottom: 16px;
+        margin-top: 16px;
+    }
     
 }
 
