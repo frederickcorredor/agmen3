@@ -23,10 +23,16 @@ body{
 
 .leon{
     width: 90%;
-    max-width: 800px;
-    position: absolute;
+    max-width: 500px;
+    position: relative;
     z-index: -10;
     border-radius: 14px;
+}
+
+.contenedorvodeo{
+    display: flex;
+    justify-content: center;
+    width: 100%;
 }
 
 p{
@@ -366,4 +372,5 @@ input{
 
 .atencion{
     background-color: #13499b00;
+    
 }
