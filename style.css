@@ -12,7 +12,7 @@ body{
     background-image: url(angulo-vista-rascacielos.jpg);
     background-size: cover;
     background-attachment: fixed;
-
+    overflow-x: hidden;
     font-size: 19px;
     color: white;
    
