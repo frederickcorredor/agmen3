@@ -346,7 +346,7 @@ input{
         background-image: url(PLANTILLA1\ Horizontal\ WEB\ AGMEN.png);
         
     }
-    .leon{width: 500px;
+    .leon{
     z-index: -100;
     }
     .midsection{
@@ -355,6 +355,10 @@ input{
     #conten2 img {
         position: relative;
         top: 50px;
+    }
+
+    #celular{
+        display: none;
     }
     
 }
@@ -370,5 +374,6 @@ input{
 
 .atencion{
     background-color: #13499b00;
+
     
 }
