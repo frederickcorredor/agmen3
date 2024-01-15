@@ -5,8 +5,6 @@
 }
 header{
     width: 100%;
-    
-    padding: 26px;
 }
 body{
     width: 100%;
@@ -14,15 +12,14 @@ body{
     background-image: url(angulo-vista-rascacielos.jpg);
     background-size: cover;
     background-attachment: fixed;
-    margin: 6px;
-    padding: 6px;
+
     font-size: 19px;
     color: white;
    
 }
 
 .leon{
-    width: 90%;
+    width: 100%;
     max-width: 500px;
     position: relative;
     z-index: -10;
