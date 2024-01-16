@@ -13,7 +13,7 @@ body{
     background-size: cover;
     background-attachment: fixed;
     overflow-x: hidden;
-    font-size: 14px;
+    font-size: 19px;
     color: white;
    
 }
@@ -56,7 +56,7 @@ span{
 
 H1, h3, h2{
     color: white;
-    font-size: 19px;
+    font-size: 24px;
     text-align: center;
     margin-bottom: 20px;
     text-align: center;
@@ -286,6 +286,10 @@ input{
     body{
         background-image: url(rascacielos-angulo-vista.webp);
         font-size: 14px;
+    }
+
+    H1, H2, H3{
+        font-size: 19PX;
     }
     .seccion{
         background-image: url(PLANTILLA1\ WEB\ AGMEN.png);
