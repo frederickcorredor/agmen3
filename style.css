@@ -35,7 +35,7 @@ body{
 p{
     background-color: #13499bbb;
     padding: 16px;
-    max-width: 600px;
+    max-width: 800px;
     border-radius: 24px;
     margin-top: 16px;
     text-align: center;
@@ -282,7 +282,7 @@ input{
   }
   
 
-@media (max-width:500px){
+@media (max-width:600px){
     body{
         background-image: url(rascacielos-angulo-vista.webp);
     }
@@ -356,7 +356,7 @@ input{
 }
 
 
-@media (min-width:500px){
+@media (min-width:601px){
     #conten2{
         background-image: url(PLANTILLA1-Horizontal-WEB-AGMEN.webp);
         
